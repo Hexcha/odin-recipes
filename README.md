@@ -1,0 +1,1 @@
+Hello I'm Taner. I'm a 2nd grade computer engineering student. I know java and made some java projects. I'm currently following "The Odin Project". I've got some experience with html and css but i haven't touched JavaScript. I'm curious about the odin project because I've heard its pretty good. Also it teaches me Linux so thats a bonus ig :D
